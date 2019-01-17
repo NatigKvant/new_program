@@ -1,0 +1,41 @@
+.dialogs img {
+    margin-top: 0;
+    width : 50px;
+    vertical-align: 100%;
+    
+}
+
+.dialogsItems {
+    
+}
+
+.dialogsItems .active{
+   
+   
+    
+    
+  
+}
+.messages {
+ 
+}
+
+
+
+
+
+
+
+.nav {
+    margin-top: 0;
+    width : 50px;
+    vertical-align: 100%;
+}
+
+.navv {
+    border: 1px solid black;
+    width:51px;
+    height:730px;
+    position: absolute;
+  }
+
